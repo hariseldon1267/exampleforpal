@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'KlavikaBasicRegular';
+  src: url("fonts/klavikabasic-regular-webfont.eot");
+  src: url("fonts/klavikabasic-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/klavikabasic-regular-webfont.otf") format("opentype"), url("fonts/klavikabasic-regular-webfont.woff") format("woff"), url("fonts/klavikabasic-regular-webfont.ttf") format("truetype"), url("fonts/klavikabasic-regular-webfont.svg#KlavikaBasicRegular") format("svg");
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'KlavikaBasicRegularItalic';
+  src: url("fonts/klavikabasic-regularitalic-webfont.eot");
+  src: url("fonts/klavikabasic-regularitalic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/klavikabasic-regularitalic-webfont.otf") format("opentype"), url("fonts/klavikabasic-regularitalic-webfont.woff") format("woff"), url("fonts/klavikabasic-regularitalic-webfont.ttf") format("truetype"), url("fonts/klavikabasic-regularitalic-webfont.svg#KlavikaBasicRegularItalic") format("svg");
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'KlavikaBasicMedium';
+  src: url("fonts/klavikabasic-medium-webfont.eot");
+  src: url("fonts/klavikabasic-medium-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/klavikabasic-medium-webfont.otf") format("opentype"), url("fonts/klavikabasic-medium-webfont.woff") format("woff"), url("fonts/klavikabasic-medium-webfont.ttf") format("truetype"), url("fonts/klavikabasic-medium-webfont.svg#KlavikaBasicMedium") format("svg");
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'KlavikaBasicLight';
+  src: url("fonts/klavikabasic-light-webfont.eot");
+  src: url("fonts/klavikabasic-light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/klavikabasic-light-webfont.otf") format("opentype"), url("fonts/klavikabasic-light-webfont.woff") format("woff"), url("fonts/klavikabasic-light-webfont.ttf") format("truetype"), url("fonts/klavikabasic-light-webfont.svg#KlavikaBasicMedium") format("svg");
+  font-weight: normal;
+  font-style: normal
+}
